@@ -1,4 +1,4 @@
-
+[![Build Status](https://cmvs.visualstudio.com/MyFirstProject/_apis/build/status/twixxer26.ContosoAir?branchName=master)](https://cmvs.visualstudio.com/MyFirstProject/_build/latest?definitionId=2&branchName=master)
 
 
 # Microsoft.Github CI Demo
